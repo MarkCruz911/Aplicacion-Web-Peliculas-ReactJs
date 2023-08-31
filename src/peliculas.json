@@ -1,0 +1,92 @@
+[
+  {
+    "titulo":"oblivion (2012)",
+    "calificacion":"8.1",
+    "director":"Joss Whedon",
+    "actores":"Robert Downey Jr. Chris Evans, Chris Hemsworth",
+    "fecha":"Release: 1 May 2015",
+    "duracion":"2h",
+    "img":"images/uploads/mv1.jpg",
+    "descripcion":"Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity..."
+  },
+  {
+    "titulo":"into the wild (2014)",
+    "calificacion":"7.8",
+    "director":"Joss Whedon",
+    "actores":"Anthony Russo, Joe Russo",
+    "fecha":"Release: 1 May 2015",
+    "duracion":"2h21",
+    "img":"images/uploads/mv2.jpg",
+    "descripcion": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat..."
+  },
+  {
+    "titulo":"blade runner (2015)",
+    "calificacion":"7.3",
+    "director":"Peyton Reed",
+    "actores":"Paul Rudd, Michael Douglas",
+    "fecha":"Release: 1 May 2015",
+    "duracion":"2h",
+    "img":"images/uploads/mv3.jpg",
+    "descripcion":"Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..."
+  },
+  {
+    "titulo":"oblivion (2012)",
+    "calificacion":"8.1",
+    "director":"Joss Whedon",
+    "actores":"Robert Downey Jr. Chris Evans, Chris Hemsworth",
+    "fecha":"Release: 1 May 2015",
+    "duracion":"2h",
+    "img":"images/uploads/mv1.jpg",
+    "descripcion":"Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity..."
+  },
+  {
+    "titulo":"into the wild (2014)",
+    "calificacion":"7.8",
+    "director":"Joss Whedon",
+    "actores":"Anthony Russo, Joe Russo",
+    "fecha":"Release: 1 May 2015",
+    "duracion":"2h21",
+    "img":"images/uploads/mv2.jpg",
+    "descripcion": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat..."
+  },
+  {
+    "titulo":"blade runner (2015)",
+    "calificacion":"7.3",
+    "director":"Peyton Reed",
+    "actores":"Paul Rudd, Michael Douglas",
+    "fecha":"Release: 1 May 2015",
+    "duracion":"2h",
+    "img":"images/uploads/mv3.jpg",
+    "descripcion":"Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..."
+  },
+  {
+    "titulo":"oblivion (2012)",
+    "calificacion":"8.1",
+    "director":"Joss Whedon",
+    "actores":"Robert Downey Jr. Chris Evans, Chris Hemsworth",
+    "fecha":"Release: 1 May 2015",
+    "duracion":"2h",
+    "img":"images/uploads/mv1.jpg",
+    "descripcion":"Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity..."
+  },
+  {
+    "titulo":"into the wild (2014)",
+    "calificacion":"7.8",
+    "director":"Joss Whedon",
+    "actores":"Anthony Russo, Joe Russo",
+    "fecha":"Release: 1 May 2015",
+    "duracion":"2h21",
+    "img":"images/uploads/mv2.jpg",
+    "descripcion": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat..."
+  },
+  {
+    "titulo":"blade runner (2015)",
+    "calificacion":"7.3",
+    "director":"Peyton Reed",
+    "actores":"Paul Rudd, Michael Douglas",
+    "fecha":"Release: 1 May 2015",
+    "duracion":"2h",
+    "img":"images/uploads/mv3.jpg",
+    "descripcion":"Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..."
+  }
+]
